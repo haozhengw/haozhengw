@@ -1,1 +1,2 @@
-# esto es una pureba de readme
+# Puedes ver comandos basicos de git en siguiente fichero: 
+[git.md](https://github.com/haozhengw/haozhengw/git.md)
