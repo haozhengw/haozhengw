@@ -1,8 +1,8 @@
 # Puedes ver comandos basicos de git en siguiente fichero: 
 [git.md](https://github.com/haozhengw/haozhengw/blob/main/git.md)
 # Ejemplo markdown:
-## H2
-### H3
+## Haozheng
+### Wang
 **negrita**
 *cursiva*
 1. Primer element
